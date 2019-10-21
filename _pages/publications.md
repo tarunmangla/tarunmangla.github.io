@@ -7,6 +7,8 @@ author_profile: true
 
 Conference/Workshop
 -------------------
+
+#####
 eMIMIC: Estimating HTTP-based Video QoE Metrics from Encrypted Network Traffic ([pdf](link))  
 **Tarun Mangla**, Emir Halepovic, Mostafa Ammar, Ellen Zegura  
 in *IEEE/IFIP Conference on Traffic Measurement and Analysis (TMA), 2018*  
@@ -32,9 +34,10 @@ Optimal radius for connectivity in duty-cycled wireless sensor networks ([pdf](h
 Amitabha Bagchi, Cristina M. Pinotti, Sainyam Galhotra, **Tarun Mangla**  
 in *ACM Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWIM) 2013*  
 
-
+#####
 Journal Articles
 ---------------
+#####
 Using Session Modeling to Estimate HTTP-Based Video QoE Metrics From Encrypted Network Traffic ([pdf](link))  
 **Tarun Mangla**, Emir Halepovic, Mostafa Ammar, Ellen Zegura  
 in *Transactions on Network and Service Management (TNSM), 2019*
@@ -42,7 +45,7 @@ in *Transactions on Network and Service Management (TNSM), 2019*
 Optimal radius for connectivity in duty-cycled wireless sensor networks ([pdf](link))  
 Amitabha Bagchi, Cristina M. Pinotti, Sainyam Galhotra, **Tarun Mangla**  
 in *ACM Transactions on Sensor Networks (ToSN), 2014*
- 
+#####
  
  
 
