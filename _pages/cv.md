@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](www.tarunmangla.github.io/files/CV.pdf) to download (*last updated* June, 2018)
+[CV](tarunmangla.github.io/files/CV.pdf) (*last updated* June, 2018)
