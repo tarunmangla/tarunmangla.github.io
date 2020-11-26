@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tarun Mangla"
 title_separator          : "-"
 name                     : &name "Tarun Mangla"
-description              : &description "PhD student, Computer Science"
+description              : &description "PostDoc Fellow, University of Chicago"
 url                      : https://tarunmangla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tarunmangla/tarunmangla.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Tarun Mangla"
   avatar           : "tarun.jpg"
-  bio              : "PhD student, Georgia Tech"
+  bio              : "Postdoc Fellow, University of Chicago"
   location         : #"Location"
   #employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
