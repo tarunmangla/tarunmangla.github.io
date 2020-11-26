@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 <span style="font-size: 0.875em">
-I am a PhD student at School of Computer Science in Georgia Tech. I am advised by [Prof. Mostafa Ammar](www.cc.gatech.edu/~ammar) and [Prof. Ellen Zegura](www.cc.gatech.edu/~ewz). Before starting my PhD, I obtained my bachelors degree in Computer Science and Engineering from Indian Institute of Technology, Delhi. </span>
+I am a Postdoc Fellow at Center for Data and Computing in University of Chicago where I am working with [Prof. Nick Feamster](https://people.cs.uchicago.edu/~feamster/) I completed my PhD in 2020 from School of Computer Science in Georgia Tech. I was advised by [Mostafa Ammar](www.cc.gatech.edu/~ammar) and [Ellen Zegura](www.cc.gatech.edu/~ewz). Before starting my PhD, I obtained my bachelors degree in Computer Science and Engineering from Indian Institute of Technology, Delhi. </span>
 
 
 <span style="font-size: 0.875em">
-My thesis work has been in the broad area of computer networking with a focus on using passive network measurements to infer, diagnose, and manage end-user video quality of experience. In addition, I am also interested in using computing, particularly data science, to address socially-relevant problems. </span>
+I enjoy working in the area of Network Measurement and Analysis. My thesis work has been in the broad area of computer networking with a focus on using passive network measurements to infer, diagnose, and manage end-user video quality of experience. In addition, I am also interested in using computing, particularly data science, to address socially-relevant problems. </span>

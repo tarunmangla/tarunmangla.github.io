@@ -7,6 +7,11 @@ author_profile: true
 
 Conference/Workshop
 -------------------
+<span style="font-size:.875em">  Drop the Packets: Using Coarse-grained Data to detect Video Performance Issues([pdf](../files/dropThePackets_conext2020.pdf))  
+**Tarun Mangla**, Emir Halepovic, Mostafa Ammar, Ellen Zegura  
+in *ACM Conference on emerging Networking EXperiments and Technology (**CoNEXT**), 2020*  </span>  
+
+
 <span style="font-size:.875em"> eMIMIC: Estimating HTTP-based Video QoE Metrics from Encrypted Network Traffic ([pdf](../files/emimic_tma18.pdf))  
 **Tarun Mangla**, Emir Halepovic, Mostafa Ammar, Ellen Zegura  
 in *IEEE/IFIP Conference on Traffic Measurement and Analysis (**TMA**), 2018*  </span>  
