@@ -7,9 +7,20 @@ author_profile: true
 
 Conference/Workshop
 -------------------
+<span style="font-size:.875em"> A Tale of Three Datasets: Towards Characterizing Mobile Broadband Access in the United States ([pdf](../files/coverage_cacm22.pdf))  
+**Tarun Mangla**, Esther Showalter, Vivek Adarsh, Kipp Jones, Morgan Vigil-Hayes, Elizabeth Belding, Ellen Zegura
+in *To Appear Communications of the ACM  (**CACM**), 2022*  </span>  
+
+
 <span style="font-size:.875em">  Measuring the Performance and Network Utilization of Popular Video Conferencing Applications ([pdf](../files/vca_imc21.pdf))  
 Kyle Macmillan, **Tarun Mangla**, James Saxon, Nick Feamster  
 in *ACM Interent Measurements Conference (**IMC**), 2021*  </span>  
+
+
+<span style="font-size:.875em"> Coverage is Not Binary: Quantifying Mobile Broadband Quality in Urban, Rural, and Tribal Contexts ([pdf](../files/coverage_icccn21.pdf))  
+Vivek Adarsh, Michael Nekrasov, Udit Paul, **Tarun Mangla**, Arpit Gupta, Morgan Vigil-Hayes, Ellen Zegura, Elizabeth Belding 
+in *IEEE International Conference on Computer Communications and Networks  (**ICCCN**), 2021*  </span>  
+
 
 <span style="font-size:.875em">  Drop the Packets: Using Coarse-grained Data to detect Video Performance Issues([pdf](../files/dropThePackets_conext20.pdf))  
 **Tarun Mangla**, Emir Halepovic, Mostafa Ammar, Ellen Zegura  
