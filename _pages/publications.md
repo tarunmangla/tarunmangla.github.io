@@ -9,7 +9,7 @@ Conference/Workshop
 -------------------
 <span style="font-size:.875em"> A Tale of Three Datasets: Towards Characterizing Mobile Broadband Access in the United States ([pdf](../files/coverage_cacm22.pdf))  
 **Tarun Mangla**, Esther Showalter, Vivek Adarsh, Kipp Jones, Morgan Vigil-Hayes, Elizabeth Belding, Ellen Zegura
-in *To Appear Communications of the ACM  (**CACM**), 2022*  </span>  
+to appear in *Communications of the ACM  (**CACM**), 2022*  </span>  
 
 
 <span style="font-size:.875em">  Measuring the Performance and Network Utilization of Popular Video Conferencing Applications ([pdf](../files/vca_imc21.pdf))  
