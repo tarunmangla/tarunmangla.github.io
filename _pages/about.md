@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <span style="font-size: 0.875em">
-I am a Postdoc Fellow at [Center for Data and Computing](https://cdac.uchicago.edu/) in University of Chicago where I am working with [Nick Feamster](https://people.cs.uchicago.edu/~feamster/). I completed my PhD in 2020 from School of Computer Science in Georgia Tech. I was advised by [Mostafa Ammar](www.cc.gatech.edu/~ammar) and [Ellen Zegura](www.cc.gatech.edu/~ewz). Before starting my PhD, I obtained my bachelors degree in Computer Science and Engineering from Indian Institute of Technology, Delhi. </span>
+I am a Postdoc Fellow at [Data Science Institute](https://datascience.uchicago.edu/) in University of Chicago where I am working with [Nick Feamster](https://people.cs.uchicago.edu/~feamster/). I completed my PhD in 2020 from School of Computer Science in Georgia Tech. I was advised by [Mostafa Ammar](www.cc.gatech.edu/~ammar) and [Ellen Zegura](www.cc.gatech.edu/~ewz). Before starting my PhD, I obtained my bachelors degree in Computer Science and Engineering from Indian Institute of Technology, Delhi. </span>
 
 
 <span style="font-size: 0.875em">
