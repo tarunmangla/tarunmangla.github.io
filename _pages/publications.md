@@ -7,6 +7,23 @@ author_profile: true
 
 Conference/Workshop
 -------------------
+<span style="font-size:.875em"> AMIR: Active Multimodal Interaction Recognition from Video and Network Traffic in Connected Environments}
+Shinan Liu, **Tarun Mangla**, Ted Shaowang, Jinjin Zhao, John Paparrizos, Sanjay Krishnan, Nick Feamster. *To Appear* in **Ubicomp 2023** </span>
+
+
+\<span style="font-size:.875em"> A Comparative Analysis of Ookla Speedtest and Measurement Labs Network Diagnostic Test (NDT7)}  
+Kyle Macmillan, Tarun Mangla, James Saxon, Nicole Marwell, Nick Feamster. *To Appear* in **SIGMETRICS 2023** </span>
+
+
+<span style="font-size:.875em"> Benchmarks or Equity? A New Approach to Measuring Internet Performance} 
+Ranya Sharma, Tarun Mangla, James Saxon, Marc Richardson, Nick Feamster, Nicole P Marwell. **TPRC**, September 2022  </span>
+
+<span style="font-size:.875em"> Best Practices for Collecting Speed Test Data} 
+Kyle MacMillan, Tarun Mangla, Marc Richardson, Nick Feamster **TPRC**, September 2022  </span>
+
+<span style="font-size:.875em"> Internet Inequity in Chicago: Adoption, Affordability, and Availability} 
+Tarun Mangla, Udit Paul, Arpit Gupta, Nicole P Marwell, Nick Feamster. **TPRC**, September 2022  </span>
+
 <span style="font-size:.875em"> A Tale of Three Datasets: Towards Characterizing Mobile Broadband Access in the United States ([pdf](../files/coverage_cacm22.pdf))  
 **Tarun Mangla**, Esther Showalter, Vivek Adarsh, Kipp Jones, Morgan Vigil-Hayes, Elizabeth Belding, Ellen Zegura
 to appear in *Communications of the ACM  (**CACM**), 2022*  </span>  
