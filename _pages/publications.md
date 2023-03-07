@@ -8,20 +8,20 @@ author_profile: true
 Conference/Workshop
 -------------------
 <span style="font-size:.875em"> AMIR: Active Multimodal Interaction Recognition from Video and Network Traffic in Connected Environments ([pdf](../files/amir_ubicomp23.pdf))
-Shinan Liu, **Tarun Mangla**, Ted Shaowang, Jinjin Zhao, John Paparrizos, Sanjay Krishnan, Nick Feamster. *To Appear* in **Ubicomp 2023** </span>
+Shinan Liu, **Tarun Mangla**, Ted Shaowang, Jinjin Zhao, John Paparrizos, Sanjay Krishnan, Nick Feamster. *To Appear* in **UbiComp 2023** </span>
 
 
 <span style="font-size:.875em"> A Comparative Analysis of Ookla Speedtest and Measurement Labs Network Diagnostic Test (NDT7)}   ([pdf](../files/speedtest_sigmetrics23.pdf)
 Kyle Macmillan, Tarun Mangla, James Saxon, Nicole Marwell, Nick Feamster. *To Appear* in **SIGMETRICS 2023** </span>
 
 
-<span style="font-size:.875em"> Benchmarks or Equity? A New Approach to Measuring Internet Performance}  ([pdf](../files/benchmarks_tprc23.pdf))
+<span style="font-size:.875em"> Benchmarks or Equity? A New Approach to Measuring Internet Performance}  ([pdf](../files/benchmarks_tprc22.pdf))
 Ranya Sharma, Tarun Mangla, James Saxon, Marc Richardson, Nick Feamster, Nicole P Marwell. in Telecommunications Policy Research Conference **TPRC**, September 2022  </span>
 
-<span style="font-size:.875em"> Best Practices for Collecting Speed Test Data}  ([pdf](../files/speedtest_tprc23pdf))
+<span style="font-size:.875em"> Best Practices for Collecting Speed Test Data}  ([pdf](../files/speedtest_tprc22pdf))
 Kyle MacMillan, Tarun Mangla, Marc Richardson, Nick Feamster in **TPRC**, September 2022  </span>
 
-<span style="font-size:.875em"> Internet Inequity in Chicago: Adoption, Affordability, and Availability}  ([pdf](../files/equity_tprc23.pdf))
+<span style="font-size:.875em"> Internet Inequity in Chicago: Adoption, Affordability, and Availability}  ([pdf](../files/equity_tprc22.pdf))
 Tarun Mangla, Udit Paul, Arpit Gupta, Nicole P Marwell, Nick Feamster. in Telecommunications Policy Research Conference **TPRC**, September 2022  </span>
 
 <span style="font-size:.875em"> A Tale of Three Datasets: Towards Characterizing Mobile Broadband Access in the United States ([pdf](../files/coverage_cacm22.pdf))  
