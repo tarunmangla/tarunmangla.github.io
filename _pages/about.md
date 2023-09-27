@@ -24,7 +24,9 @@ data-driven decisions towards optimizing future networks and applications.
 
 <span style="font-size: 0.875em">
 I am looking for PhD students. Check [this](https://www.cse.iitd.ac.in/index.php/2-uncategorised/29-phd-admissions) for information about PhD admissions. 
+</span>
 
+<span style="font-size: 0.875em">
 If you are an IITD student (undergrad or grad) and are interested in working
 with me, please send me an email with your CV. 
 </span>

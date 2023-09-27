@@ -80,12 +80,12 @@ analytics:
 author:
   name             : "Tarun Mangla"
   avatar           : "tarun.jpg"
-  bio              : "Postdoc Fellow, University of Chicago"
+  bio              : "Assistant Professor, CSE, IIT Delhi"
   location         : #"Location"
   #employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=IP0EwogAAAAJ&hl=en"
-  email            : tmangla@uchicago.edu
+  email            : tmangla@iitd.ac.in
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   #uri              :
   #bitbucket        :
