@@ -7,9 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="font-size: 0.875em">
-I am a Postdoc Fellow at the [Data Science Institute](https://datascience.uchicago.edu/) in University of Chicago where I am working with [Nick Feamster](https://people.cs.uchicago.edu/~feamster/). I completed my PhD in 2020 from School of Computer Science in Georgia Tech. I was advised by [Mostafa Ammar](www.cc.gatech.edu/~ammar) and [Ellen Zegura](www.cc.gatech.edu/~ewz). Before starting my PhD, I obtained my bachelors degree in Computer Science and Engineering from Indian Institute of Technology, Delhi. </span>
+<span style="font-size: 0.875em"> I am an Assistant Professor in the Computer
+Science and Engineering Department at IIT Delhi. Prior to that, I was a
+Postdoctoral Scholar at University of Chicago working with [Nick
+Feamster](https://people.cs.uchicago.edu/~feamster/). I completed my PhD in
+2020 at Georgia Tech where I was advised by [Mostafa
+Ammar](www.cc.gatech.edu/~ammar) and [Ellen Zegura](www.cc.gatech.edu/~ewz). I
+obtained my bachelor's degree in CS from IIT Delhi. </span>
 
 
 <span style="font-size: 0.875em">
-I enjoy working in the area of Network Measurement and Analysis. My thesis work has been in the broad area of computer networking with a focus on using passive network measurements to infer, diagnose, and manage end-user video quality of experience. In addition, I am also interested in using computing, particularly data science, to address socially-relevant problems. </span>
+My research is broadly in the area of Computer Networking. I build measurement
+systems and methods that enable various stakeholders of the Internet make
+data-driven decisions towards optimizing future networks and applications. 
+
+
+I am looking for PhD students. Check [this](https://www.cse.iitd.ac.in/index.php/2-uncategorised/29-phd-admissions) for information about PhD admissions. 
+
+If you are an IITD student (undergrad or grad) and are interested in working
+with me, please send me an email with your CV. 
+</span>
+
