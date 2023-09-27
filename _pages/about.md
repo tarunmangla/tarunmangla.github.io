@@ -20,8 +20,9 @@ obtained my bachelor's degree in CS from IIT Delhi. </span>
 My research is broadly in the area of Computer Networking. I build measurement
 systems and methods that enable various stakeholders of the Internet make
 data-driven decisions towards optimizing future networks and applications. 
+</span>
 
-
+<span style="font-size: 0.875em">
 I am looking for PhD students. Check [this](https://www.cse.iitd.ac.in/index.php/2-uncategorised/29-phd-admissions) for information about PhD admissions. 
 
 If you are an IITD student (undergrad or grad) and are interested in working
