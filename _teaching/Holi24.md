@@ -17,13 +17,6 @@ networking. These include problems related to data collection and data
 representation as well as benchmarking, robustness, and explainability of 
 ML models. 
 
-By the end of the course, 
-The course has two primary objectives: (1). understanding network concepts  gain insights into applications of ML techniques 
-- Gain insights into the application of ML techniques specifically tailored for network data
-- Understand fundamental network concepts and how ML can be used to improve accuracy or automation of various network tasks 
-- Hands-on training by working on real-world network dataset (assignments)
-- Designing and implementing ML solution for a specific network task (projects)
-
 ## Prerequisites
 - COL334/672 or its equivalent
 - COL341 (Preferred)
