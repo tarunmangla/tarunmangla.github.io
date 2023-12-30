@@ -65,7 +65,7 @@ its deadline, 2 hours will be subtracted from the grace period. No late penalty 
 as you have a positive grace period balance. After the grace period expires, your credit for the assignment
 will be halved if it is submitted within a week after the deadline. No credit will be provided
 for later submissions. You still need to submit all the assignments to pass the course. 
-- **Audit Policy**: You need to score a B grade to get an audit pass. Also, you need to turn in assignments
+- **Audit Policy**: You need to score a B grade or above to get an audit pass. Also, you need to turn in assignments
 and projects for audit pass. 
 - **Quiz**: There will be surprise quizzes. Tentatively, 6 quizzes will be held and the best 5 will be counted towards
 final grading.
