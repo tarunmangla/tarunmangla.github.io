@@ -51,7 +51,7 @@ Next we will delve into the task-agnostic ML pipelines for networking.
 - Module 8: Explainability
 - Module 9: Synthetic Data Generation
 
-[Here]() is a list of papers that will be covered for each module. 
+[Here](#reading-list) is a list of papers that will be covered for each module. 
 
 
 ## Resources
@@ -70,3 +70,46 @@ and projects for audit pass.
 - **Quiz**: There will be surprise quizzes. Tentatively, 6 quizzes will be held and the best 5 will be counted towards
 final grading.
 
+## Reading List
+- Module 1: Traffic Classification
+  - [QoS Classification](https://dl.acm.org/doi/pdf/10.1145/1028788.1028805)
+  - [Deep Packet Classification](https://link.springer.com/article/10.1007/s00500-019-04030-2)
+- Module 2: Resource Allocation
+  - [TCP Ex-Machina](https://dl.acm.org/doi/pdf/10.1145/2534169.2486020)
+  - [Pensieve](https://dl.acm.org/doi/abs/10.1145/3098822.3098843)
+  - [Genet](https://dl.acm.org/doi/pdf/10.1145/3544216.3544243)
+- Module 3: Application Performance Prediction
+  - [NetMicroscope](https://dl.acm.org/doi/abs/10.1145/3366704)
+  - [VCA QoE Inference](https://arxiv.org/abs/2306.01194)
+  - [PAIN](https://www.sciencedirect.com/science/article/abs/pii/S138912861830358X)
+- Module 4: Security
+  - [Credential Spearphishing Attacks](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-ho.pdf)
+  - [Kitsune](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-ho.pdf)
+  - [Dos and Don'ts of ML in Network Security](https://www.usenix.org/conference/usenixsecurity22/presentation/arp)
+- Module 5: Data Collection System
+  - [OpenSketch](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final116.pdf)
+  - [PINT](https://dl.acm.org/doi/pdf/10.1145/3387514.3405894)
+  - [PINOT](https://dl.acm.org/doi/abs/10.1145/3606464.3606485)
+  - [netUnicorn](https://arxiv.org/abs/2306.08853)
+  - [Generating Live Traffic..](https://dl.acm.org/doi/pdf/10.1145/3563766.3564084)
+- Module 6: Data Representation
+  - [nPrint](https://dl.acm.org/doi/abs/10.1145/3460120.3484758)
+  - [Traffic Refinery](https://dl.acm.org/doi/abs/10.1145/3491052)
+  - [ET-Bert](https://dl.acm.org/doi/pdf/10.1145/3485447.3512217)
+  - [netFound](https://arxiv.org/abs/2310.17025)
+- Module 7: Robustness/Benchmarking
+  - [Pantheon](https://www.usenix.org/conference/atc18/presentation/yan-francis)
+  - [Puffer](https://puffer.stanford.edu/static/puffer/documents/puffer-paper.pdf)
+  - [LEAF](https://dl.acm.org/doi/abs/10.1145/3609422)
+- Module 8: Explainability
+  - [Trustee](https://dl.acm.org/doi/pdf/10.1145/3548606.3560609)
+  - HotNETS??
+- Module 9: Synthetic Data Generation
+  - [DoppleGANGER](https://dl.acm.org/doi/abs/10.1145/3544216.3544251)
+  - [HotNets23 - Network Diffusion](https://arxiv.org/abs/2310.08543)
+  - [NetDiffus](https://arxiv.org/abs/2310.04429)
+- Module 10: Miscellaneous
+  - [Formal Methods + NetML](https://conferences.sigcomm.org/hotnets/2023/papers/hotnets23_gong.pdf)
+  - [NetOperator Analytics + LLM](https://conferences.sigcomm.org/hotnets/2023/papers/hotnets23_kotaru.pdf)
+  - [RFCs + LLMs](https://conferences.sigcomm.org/hotnets/2023/papers/hotnets23_sharma.pdf)
+  
