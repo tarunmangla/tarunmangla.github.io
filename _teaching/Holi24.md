@@ -1,37 +1,66 @@
-## Special Topics in High Speed Networks (COL867)
+# Special Topics in High Speed Networks (COL867)
 
+**Location**: LH603 \
+**Time**: MW (11-11:50a), Th (12-12:50p) \
+**Credits**: 3-0-4 
 
-### Course Description 
+## Course Description 
 
 Recent years have seen a growing trend of using machine
 learning (ML) across various domains, and computer networking is no exception.
-This course will focus on applications of ML for diverse networking tasks,
-delving into the research problems associated with building end-to-end ML
-pipelines for computer networking. These include problems related to data
-collection, preparation, and data representation; design, development, and
-evaluation of ML solutions; as well as scalability, explainability, and
-robustness of ML models. We will study these topics through example ML
-solutions proposed for different network tasks such as application performance,
-resource management, and network security. 
+This course will provide an overview of the latest in using ML for networking. 
+The first few weeks will focus on specific use cases of ML in networking such
+as in the domain of resource allocation, application performance prediction, 
+and resource allocation. Later part of the course will delve into the research 
+problems associated with building (task-agnostic) ML pipelines for computer 
+networking. These include problems related to data collection and representation 
+as well as benchmarking, robustness, and explainability of ML models. 
 
-By the end of this course, you will have learned about the latest in using ML
-for networking. The course also includes a substantial hands-on component with
-the goal of providing practical experience in applying ML to real-world network
-datasets and understanding the related practical challenges
+## Objectives
+- Understand research challenges in ML pipelines and opportunities in integrating
+  ML techniques into networking
+- Hands-on training by implementing ML solutions for specific network tasks
 
-### Format
 
-The course will run in a seminar style with a combination of
-lectures on concepts and student presentations on research papers. Some
-lectures will also have hands-on tutorials and there will be coding assignments
-based on those tutorials. In addition, the students will do a project (in teams)
-either of their own choice or based on ideas provided by the instructor. 
+## Prerequisites
+- COL334/672 or its equivalent
+- COL341 (Preferred)
 
-### Prerequisites
-Students must have taken the undergraduate-level networking
-course (COL334/672) or its equivalent. Also, it will help if the students have
-already taken the undergraduate-level course on machine learning (COL341).
+## Grading
+- Exams (35%)
+- Assignments (30%)
+- Project (20%)
+- Quiz (15%)
 
-### Syllabus
-Coming Up!! 
+## Syllabus (Tentative)
 
+We will first study specific ML solutions proposed for the following network tasks: 
+- Module 1: Traffic Classification
+- Module 2: Resource Allocation
+- Module 3: Application Performance Estimaton
+- Module 4: Security
+
+Next we will delve into the task-agnostic ML pipelines for networking. 
+- Module 5: Data Collection
+- Module 6: Data Representation
+- Module 7: Evaluation 
+- Module 8: Explainability
+- Module 9: Synthetic Data Generation
+
+
+## Resources
+- 
+
+## Course Policy
+- **Honor Code**: The course will follow the [IIT Honor Code](https://academics.iitd.ac.in/sites/default/files/registration/forms/10_FORM%20H.pdf)
+- **Late Policy**: Students are provided with a grace period of 72 hours for the
+semester. The grace period is counted in a granuality of hours. For instance, if you submit an assignment 1h30m past
+its deadline, 2 hours will be subtracted from the grace period. No late penalty is provided as long
+as you have a positive grace period balance. After the grace period expires, your credit for the assignment
+will be halved if it is submitted within a week after the deadline. No credit will be provided
+for later submissions. You still need to submit all the assignments to pass the course. 
+- **Audit Policy**: You need to score a B grade to get an audit pass. Also, you need to turn in assignments
+and projects for audit pass. 
+- **Quiz**: There will be surprise quizzes. 6 (tentative) quizzes and the best 5 will be counted towards
+final grading.
+- 
