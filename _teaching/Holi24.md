@@ -17,6 +17,11 @@ networking. These include problems related to data collection and data
 representation as well as benchmarking, robustness, and explainability of 
 ML models. 
 
+The objectives of the course are twofold: (1). provide an overview of 
+key challenges and opportunities in integrating ML techniques into networking solutions; 
+and (2). Gain hands-on experience by applying the concepts to real-world network datasets and 
+understand the associated practical challenges. 
+
 ## Prerequisites
 - COL334/672 or its equivalent
 - COL341 (Preferred)
@@ -46,10 +51,6 @@ Next we will delve into the task-agnostic ML pipelines for networking.
 
 [Here](#reading-list) is a list of papers that will be covered for each module. 
 
-
-## Resources
-- 
-
 ## Course Policy
 - **Honor Code**: The course will follow the [IIT Honor Code](https://academics.iitd.ac.in/sites/default/files/registration/forms/10_FORM%20H.pdf).
 - **Late Policy**: Students are provided with a grace period of 96 hours for the entire
@@ -62,6 +63,40 @@ for later submissions. You still need to submit all the assignments to pass the 
 and projects for audit pass. 
 - **Quiz**: There will be surprise quizzes. Tentatively, 6 quizzes will be held and the best 5 will be counted towards
 final grading.
+
+## Resources 
+
+### Background Readings and Videos
+
+* [Survey 1](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8121867&tag=1) 
+* [Survey 2](https://jisajournal.springeropen.com/counter/pdf/10.1186/s13174-018-0087-2.pdf)
+* [Graduate Course](https://people.cs.uchicago.edu/~junchenj/34702-fall21/syllabus.html)
+* [Networking videos](https://www.youtube.com/playlist?list=PLpherdrLyny-zJw95jcE-uJkcsIAG1MEn)
+
+### Datasets
+
+* [CIC Network Intrusion Detection Data (CICIDS)](https://www.unb.ca/cic/datasets/)
+* [UC Irvine IDS/Botnet Dataset](https://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT)
+* [TLS Handshake Dataset](https://haystack.mobi/datasets.html)
+* [NetML Challenge and Datasets (2020)](https://github.com/ACANETS/NetML-Competition2020)
+* [MAWI Traffic Traces](http://mawi.wide.ad.jp/mawi/)
+      
+
+### Deep Learning
+
+* [Large Language Models](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/)
+
+### Visualization and Interpretation
+* [Formatting Seaborn Axis/Tick Labels](https://matplotlib.org/3.2.1/gallery/text_labels_and_annotations/date.html)
+* [Colormaps for Clustering](https://matplotlib.org/3.1.0/tutorials/colors/colormaps.html)
+* [Train/Test Split](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
+
+### Helpful Notebooks
+
+* [Data Science in Python Cookbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Variety of Topics](https://nbviewer.jupyter.org/github/jakevdp/sklearn_tutorial/blob/master/notebooks/Index.ipynb)
+* [ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch/)
+
 
 ## Reading List
 - Module 1: Traffic Classification
