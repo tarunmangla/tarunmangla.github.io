@@ -10,7 +10,7 @@ Recent years have seen a growing trend of using machine
 learning (ML) across various domains, and computer networking is no exception.
 This course will provide an overview of the latest in using ML for networking. 
 The first few weeks will focus on specific use cases of ML in networking such
-as in the domain of resource allocation, application performance prediction, 
+as in the domain of network security, application classification and performance prediction, 
 and resource allocation. Later part of the course will delve into the research 
 problems associated with building (task-agnostic) ML pipelines for computer 
 networking. These include problems related to data collection and data 
