@@ -36,7 +36,7 @@ understand the associated practical challenges.
 
 ## Syllabus (Tentative)
 
-We will first study specific ML solutions proposed for the following network tasks: 
+We will first study ML solutions proposed for specific network tasks.
 - Module 1: Traffic Classification
 - Module 2: Resource Allocation
 - Module 3: Application Performance Estimaton
