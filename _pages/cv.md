@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://tarunmangla.github.io/files/CV.pdf) (last updated *December 2022*)
+[CV](https://tarunmangla.github.io/files/cv.pdf) (last updated *March'24*)
