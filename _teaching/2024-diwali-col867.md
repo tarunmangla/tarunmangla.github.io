@@ -1,0 +1,41 @@
+title: "COL334/672: Computer Networks"
+collection: teaching
+type: "Introductory Course"
+permalink: /teaching/2024-diwali-col334
+venue: LH111
+date: Diwali'24
+---
+---
+
+## Prerequisites as listed in Courses of Study
+- Data Structure and Algorithms: COL106
+- Computer Architecture: COL216
+
+## Grading
+- Exams (40%)
+- Assignments 40%
+- Quizzes (20%)
+- Class Participation (Bonus, 4%)
+
+
+## Course Policy
+- **Honor Code**: The course will follow the [IIT Honor Code](https://academics.iitd.ac.in/sites/default/files/registration/forms/10_FORM%20H.pdf).
+- **Late Policy**: Students are provided with a grace period of 96 hours for the entire
+semester. The grace period is counted in a granuality of hours. For instance, if you submit an assignment 1h30m past
+its deadline, 2 hours will be subtracted from the grace period. No late penalty is provided as long
+as you have a positive grace period balance. After the grace period expires, your credit for the assignment
+will be halved if it is submitted within a week after the deadline. No credit will be provided
+for later submissions. You still need to submit all the assignments to pass the course. 
+- **Audit Policy**: You need to score a B- grade, you need to attempt all assignments and score at least 50\%, and you need to attempt at least 50\% quizzes
+- **Quiz**: There will be surprise quizzes. Best 90\% quizzes will be counted towards final grading.
+
+## Recommended Textbooks
+- Computer Networking: A Top-down Approach by Jim Kurose and Keith Ross 
+- Computer Networks: A Systems Approach by Larry Peterson and Bruce Davie
+- Computer Networks by Andrew Tanenbaum, David Weatherall, Nick Feamster
+
+## Teaching Assistants 
+Neha, Ankit, Manan Sharma, Pratham Agrawal, Prateek Bhaisora, Sagar Gangadhar Palled, Sourabh Tiwari, Manshi Sagar, and Vatsal Jingar
+
+## Office hours
+Wednesdays, 2-3PM, Bharti 423
