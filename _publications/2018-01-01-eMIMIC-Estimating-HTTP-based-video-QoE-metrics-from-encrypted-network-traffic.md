@@ -3,7 +3,8 @@ title: "eMIMIC: Estimating HTTP-based video QoE metrics from encrypted network t
 collection: publications
 permalink: /publication/2018-01-01-eMIMIC-Estimating-HTTP-based-video-QoE-metrics-from-encrypted-network-traffic
 date: 2018-01-01
-venue: 'In the proceedings of 2018 Network Traffic Measurement and Analysis Conference (TMA)'
-citation: ' Tarun Mangla,  Emir Halepovic,  Mostafa Ammar,  Ellen Zegura, &quot;eMIMIC: Estimating HTTP-based video QoE metrics from encrypted network traffic.&quot; In the proceedings of 2018 Network Traffic Measurement and Analysis Conference (TMA), 2018.'
+venue: 'IEEE TMA'
+authors: 'Tarun Mangla, Emir Halepovic, Mostafa Ammar, Ellen Zegura'
+type: 'conference'
+award: 'Best Paper Award'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=eMIMIC:+Estimating+HTTP+based+video+QoE+metrics+from+encrypted+network+traffic){:target="_blank"} for full citation

@@ -7,6 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign sorted_teaching = site.teaching | sort: 'date' | reverse %}
+
+<ul style="list-style-type: none; padding-left: 0;">
+{% for post in sorted_teaching %}
+  <li style="margin-bottom: 0.8em;">
+    {% assign post_year = post.date | date: "%Y" %}
+    {% if post.title contains 'COL7560' and post_year == '2026' %}
+      <a href="https://github.com/tarunmangla/col7560">{{ post.title }}</a>, {{ post.date | date: "%Y" }}
+    {% elsif forloop.index <= 3 %}
+      {{ post.title }}, {{ post.date | date: "%Y" }}
+    {% else %}
+      <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>, {{ post.date | date: "%Y" }}
+    {% endif %}
+  </li>
 {% endfor %}
+</ul>

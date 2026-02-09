@@ -3,7 +3,7 @@ title: "VideoNOC: Assessing video QoE for network operators using passive measur
 collection: publications
 permalink: /publication/2018-01-01-VideoNOC-Assessing-video-QoE-for-network-operators-using-passive-measurements
 date: 2018-01-01
-venue: 'In the proceedings of Proceedings of the 9th ACM Multimedia Systems Conference'
-citation: ' Tarun Mangla,  Ellen Zegura,  Mostafa Ammar,  Emir Halepovic,  Kyung-Wook Hwang,  Rittwik Jana,  Marco Platania, &quot;VideoNOC: Assessing video QoE for network operators using passive measurements.&quot; In the proceedings of Proceedings of the 9th ACM Multimedia Systems Conference, 2018.'
+venue: 'ACM MMSys'
+authors: 'Tarun Mangla, Ellen Zegura, Mostafa Ammar, Emir Halepovic, Kyung-Wook Hwang, Rittwik Jana, Marco Platania'
+type: 'conference'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=VideoNOC:+Assessing+video+QoE+for+network+operators+using+passive+measurements){:target="_blank"} for full citation
